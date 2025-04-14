@@ -50,4 +50,5 @@ public class GPTService {
                    .getString("content")
                    .trim();
     }
-}
+    }
+
